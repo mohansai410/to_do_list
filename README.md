@@ -13,3 +13,7 @@ Backend: Node.js, Express
 Database: SQLite (using sqlite3 npm module)
 
 Deployment: Local (runs via node server.js)
+
+*OUTPUT:-*
+
+![Image](https://github.com/user-attachments/assets/1be503f2-c2db-42fb-bf5e-cc34fc200731)
